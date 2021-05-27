@@ -1,3 +1,3 @@
-export{
-  root:null
+export default function createFramework() {
+  console.log("sosi huy");
 }
